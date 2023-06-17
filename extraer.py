@@ -2,7 +2,8 @@ import os
 #import zipfile
 import shutil
 
-
+def rar_zip():
+    return
 
 #funcion para extraer todos los archivos .pl de un conjunto de carpetas
 def extraer(directorio,destino):
